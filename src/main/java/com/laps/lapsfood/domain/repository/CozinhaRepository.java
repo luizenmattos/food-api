@@ -8,4 +8,5 @@ import com.laps.lapsfood.domain.model.Cozinha;
 @Repository
 public interface CozinhaRepository extends JpaRepository<Cozinha, Long>{
 
+
 }
